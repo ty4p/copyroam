@@ -4,7 +4,7 @@
   "private": true,
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Ketyap <me@ketyap.me> (https://ketyap.me)",
+  "author": "ty4p <me@yuki.ne.jp> (https://yuki.ne.jp)",
   "type": "module",
   "scripts": {
     "dev": "wxt",

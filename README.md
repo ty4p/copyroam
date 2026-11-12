@@ -49,7 +49,7 @@ Built with [WXT](https://wxt.dev) and TypeScript.
 
 ## Author
 
-[Ketyap](https://ketyap.me) — questions or issues: [me@ketyap.me](mailto:me@ketyap.me)
+[ty4p](https://yuki.ne.jp) — questions or issues: [me@yuki.ne.jp](mailto:me@yuki.ne.jp)
 
 ## License
 

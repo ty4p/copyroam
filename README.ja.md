@@ -49,7 +49,7 @@ npm run build
 
 ## 作者
 
-[Ketyap](https://ketyap.me) — 質問・不具合報告など: [me@ketyap.me](mailto:me@ketyap.me)
+[ty4p](https://yuki.ne.jp) — 質問・不具合報告など: [me@yuki.ne.jp](mailto:me@yuki.ne.jp)
 
 ## ライセンス
 
